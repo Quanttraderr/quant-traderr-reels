@@ -1,0 +1,11 @@
+{
+ "mean_corr": "0.18",
+ "top_pair": "GS/MS",
+ "top_pair_corr": "0.86",
+ "hub_name": "BLK",
+ "rim_name": "UNH",
+ "n_names": "44",
+ "n_sessions": "751",
+ "n_links": "43",
+ "mds_share": "35%"
+}

@@ -29,7 +29,15 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 
 | Folder | Post | The number |
 |---|---|---|
+| [`the-ten-days`](the-ten-days) | The Ten Days | 313% becomes 118% without ten sessions |
+| [`phase-portrait`](phase-portrait) | The Market's Phase Portrait | 87% of days sit below the previous high |
+| [`shape-of-correlation`](shape-of-correlation) | The Shape of Correlation | average pairwise correlation 0.18 |
 | [`when-diversification-dies`](when-diversification-dies) | When Diversification Dies | 0.37 correlation in a calm tape, 0.56 in a drawdown |
+
+Each folder has its own README with the method, the figures the post was built
+on, and a section on what the picture does **not** show. That last part is the
+point: writing down what the maths does not support is what stops a good looking
+render from making a claim it cannot carry.
 
 ## Running one
 
@@ -37,11 +45,11 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 
-cd when-diversification-dies
-../.venv/bin/python Tomography_Reel_Pipeline.py --smoke   # 3 frames, look at them
-../.venv/bin/python Tomography_Reel_Pipeline.py           # full render -> topic.mp4
-../.venv/bin/python Tomography_Static_Pipeline.py         # hero still
-../.venv/bin/python Tomography_Caption.py                 # caption, gated
+cd the-ten-days
+../.venv/bin/python TenDays_Reel_Pipeline.py --smoke   # 3 frames, look at them
+../.venv/bin/python TenDays_Reel_Pipeline.py           # full render -> topic.mp4
+../.venv/bin/python TenDays_Static_Pipeline.py         # hero still
+../.venv/bin/python TenDays_Caption.py                 # caption, gated
 ```
 
 Data comes from Yahoo Finance through `yfinance` on the first run and is cached
