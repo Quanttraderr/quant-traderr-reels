@@ -1,0 +1,12 @@
+{
+ "calm_corr": "0.37",
+ "crisis_corr": "0.56",
+ "min_corr": "0.14",
+ "min_date": "Feb 2020",
+ "max_corr": "0.70",
+ "max_date": "May 2026",
+ "n_assets": "10",
+ "n_windows": "3,711",
+ "window_days": "60",
+ "dd_threshold": "15%"
+}

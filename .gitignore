@@ -1,0 +1,6 @@
+_cache/
+temp_frames/
+temp_frames_smoke/
+__pycache__/
+.venv/
+*.mp4
