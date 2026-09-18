@@ -1,0 +1,14 @@
+{
+ "longest": "503",
+ "inv_start": "Nov 2022",
+ "inv_end": "Nov 2024",
+ "share_inverted": "15%",
+ "deepest": "1.70",
+ "deepest_date": "May 2023",
+ "n_sessions": "5,028",
+ "n_maturities": "4",
+ "n_years": "20",
+ "mat_short": "13 weeks",
+ "mat_bench": "10 year",
+ "mat_long": "30 years"
+}

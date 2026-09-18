@@ -1,0 +1,10 @@
+{
+ "share_inward": "95%",
+ "n_cells": "43",
+ "n_inward": "41",
+ "n_states": "8,426",
+ "horizon": "20",
+ "window_days": "20",
+ "n_years": "34",
+ "min_obs": "30"
+}

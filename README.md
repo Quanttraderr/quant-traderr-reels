@@ -33,6 +33,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`phase-portrait`](phase-portrait) | The Market's Phase Portrait | 87% of days sit below the previous high |
 | [`shape-of-correlation`](shape-of-correlation) | The Shape of Correlation | average pairwise correlation 0.18 |
 | [`when-diversification-dies`](when-diversification-dies) | When Diversification Dies | 0.37 correlation in a calm tape, 0.56 in a drawdown |
+| [`the-market-pulls-back`](the-market-pulls-back) | The Market Pulls Back | 41 of 43 cells drift back toward the middle |
+| [`the-curve-that-inverted`](the-curve-that-inverted) | The Curve That Inverted | inverted for 503 sessions straight |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
@@ -58,7 +60,9 @@ fetches fresh data. That means your numbers may differ from the ones in the
 post: the asserts are bands, not snapshots, so the build will still pass, and
 `figures.json` in each folder records what the posted version was built on.
 
-Output is 1440x2560 at 30 FPS, 11.7 seconds.
+Output is 1080x1920 at 30 FPS, 11.7 seconds. That is native: Instagram
+delivers reels at 1080x1920 at most, and handing it anything larger means
+it downscales, which is exactly what smears hairlines and small type.
 
 ## Credit
 
