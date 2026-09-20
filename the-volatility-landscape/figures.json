@@ -1,0 +1,15 @@
+{
+ "peak_vol": "72%",
+ "peak_win": "20-day",
+ "peak_date": "Dec 2008",
+ "median_vol": "14%",
+ "calm_vol": "9%",
+ "long_peak": "45%",
+ "n_windows": "19",
+ "n_cols": "131",
+ "n_years": "34",
+ "first_year": "1994",
+ "last_year": "2026",
+ "min_win": "10",
+ "max_win": "252"
+}

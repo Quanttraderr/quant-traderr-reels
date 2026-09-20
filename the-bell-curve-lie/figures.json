@@ -1,0 +1,12 @@
+{
+ "shell_k": "5",
+ "n_outside": "63",
+ "exp_outside": "0.1",
+ "worst_sigma": "11.8",
+ "worst_date": "Oct 2008",
+ "odds_exp": "27",
+ "odds_years": "10^27",
+ "n_days": "5,491",
+ "n_years": "22",
+ "assets": "SPY, TLT, GLD"
+}

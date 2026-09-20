@@ -35,6 +35,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`when-diversification-dies`](when-diversification-dies) | When Diversification Dies | 0.37 correlation in a calm tape, 0.56 in a drawdown |
 | [`the-market-pulls-back`](the-market-pulls-back) | The Market Pulls Back | 41 of 43 cells drift back toward the middle |
 | [`the-curve-that-inverted`](the-curve-that-inverted) | The Curve That Inverted | inverted for 503 sessions straight |
+| [`the-volatility-landscape`](the-volatility-landscape) | The Volatility Landscape | 72% on the 20 session window in Dec 2008 |
+| [`the-bell-curve-lie`](the-bell-curve-lie) | The Bell Curve Lie | 63 days outside a shell a bell curve puts 0.1 days beyond |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
