@@ -29,7 +29,7 @@ RUN
     python CorrelationSpace_Reel_Pipeline.py           # full render -> topic.mp4
 
 OUTPUT
-    1440x2560 (2K vertical) @ 30 FPS, 1.4s hook + 8.5s build + 1.8s hold = 11.7s
+    1080x1920 @ 30 FPS, 1.4s hook + 8.5s build + 1.8s hold = 11.7s
 
 STAGES
     DATA -> COMPUTE -> VALIDATE (asserts, writes figures.json) -> RENDER -> COMPILE
@@ -62,9 +62,14 @@ CONFIG = {
     "N_LABELS": 6,
 
     # render (leave these alone unless the topic needs landscape)
-    "W": 1440, "H": 2560, "DPI": 400 / 3,   # 2K master. The figure stays
-    # 10.8x19.2in, so every fontsize and linewidth lands where it would at
-    # 1080x1920; only the sampling density goes up.
+    # Instagram delivers reels at 1080x1920 at most, so that is what we render.
+    # A 1440x2560 master looked like the safer choice, but the platform then
+    # downscales it to 75%, and this content is hairlines and small mono text on
+    # black: exactly what a resample smears. Rendering native means the glyphs
+    # are hinted at the size they are shown and no pixel is ever resampled.
+    # The figure stays 10.8x19.2in and 1080 / 100 = 10.8 exactly, so every
+    # fontsize in points and every linewidth lands where it did before.
+    "W": 1080, "H": 1920, "DPI": 100,
     "FPS": 30,
     "HOOK_SEC": 1.4, "BUILD_SEC": 8.5, "HOLD_SEC": 1.8,
     "ELEV_BASE": 18, "AZIM_START": -68, "AZIM_SWEEP": 34,
@@ -391,10 +396,17 @@ def main(smoke=False):
 
     mp4 = os.path.join(BASE_DIR, "topic.mp4")
     log("encoding...")
+    # crf 14 rather than 18: Instagram re-encodes whatever it is given, and two
+    # lossy passes compound. The colour tags matter too. Without them the file
+    # reports "unknown" primaries and every player, Instagram included, falls
+    # back to a guess, which is where washed out colour comes from.
     r = subprocess.run([ffmpeg_exe(), "-y", "-framerate", str(c["FPS"]),
                         "-i", os.path.join(frames, "f_%05d.png"),
-                        "-c:v", "libx264", "-preset", "slow", "-crf", "18",
-                        "-pix_fmt", "yuv420p", mp4],
+                        "-sws_flags", "lanczos+accurate_rnd+full_chroma_int",
+                        "-c:v", "libx264", "-preset", "slow", "-crf", "14",
+                        "-pix_fmt", "yuv420p",
+                        "-color_primaries", "bt709", "-color_trc", "bt709",
+                        "-colorspace", "bt709", "-movflags", "+faststart", mp4],
                        capture_output=True, text=True)
     if r.returncode != 0:
         raise SystemExit(r.stderr[-2000:])
