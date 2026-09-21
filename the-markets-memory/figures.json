@@ -1,0 +1,19 @@
+{
+ "after_bigdown": "29%",
+ "uncond_big": "13%",
+ "after_flat": "9%",
+ "factor": "2.2",
+ "big_edge": "1.5%",
+ "flat_edge": "0.5%",
+ "top_from": "FLAT",
+ "top_to": "FLAT",
+ "top_p": "53%",
+ "n_days": "8,467",
+ "n_years": "34",
+ "n_states": "5",
+ "share_bigdown": "7%",
+ "share_down": "16%",
+ "share_flat": "48%",
+ "share_up": "22%",
+ "share_bigup": "6%"
+}

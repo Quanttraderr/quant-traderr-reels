@@ -37,6 +37,7 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`the-curve-that-inverted`](the-curve-that-inverted) | The Curve That Inverted | inverted for 503 sessions straight |
 | [`the-volatility-landscape`](the-volatility-landscape) | The Volatility Landscape | 72% on the 20 session window in Dec 2008 |
 | [`the-bell-curve-lie`](the-bell-curve-lie) | The Bell Curve Lie | 63 days outside a shell a bell curve puts 0.1 days beyond |
+| [`the-markets-memory`](the-markets-memory) | The Market's Memory | a big move follows a big down day 29% of the time, 13% on an average day |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
@@ -65,6 +66,21 @@ post: the asserts are bands, not snapshots, so the build will still pass, and
 Output is 1080x1920 at 30 FPS, 11.7 seconds. That is native: Instagram
 delivers reels at 1080x1920 at most, and handing it anything larger means
 it downscales, which is exactly what smears hairlines and small type.
+
+## Publishing
+
+Two tools sit next to the reels because a reel that stays on disk is not a
+post:
+
+- `musikbett.py` builds a music bed out of sine waves, noise and envelopes and
+  muxes it under the video without re-encoding the picture. Instagram's own
+  music library only exists inside the app, so anything published through the
+  API carries the audio that is in the file. Generating the bed keeps that
+  free of anyone else's rights.
+- `insta_post.py` publishes a finished reel through Metas Instagram API with
+  Instagram Login: create a container from a public video URL, wait for
+  processing, then publish. It needs the `instagram_business_content_publish`
+  permission, and `--pruefen` says whether the token actually has it.
 
 ## Credit
 
