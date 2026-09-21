@@ -39,6 +39,7 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`the-bell-curve-lie`](the-bell-curve-lie) | The Bell Curve Lie | 63 days outside a shell a bell curve puts 0.1 days beyond |
 | [`the-markets-memory`](the-markets-memory) | The Market's Memory | a big move follows a big down day 29% of the time, 13% on an average day |
 | [`the-seasonality-mirage`](the-seasonality-mirage) | The Seasonality Mirage | September averages -0.5%, give or take 0.9 |
+| [`the-shape-of-pain`](the-shape-of-pain) | The Shape of Pain | BTC spent 32% of its days over 50% below its high, SPY 0% |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the

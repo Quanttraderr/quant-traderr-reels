@@ -1,0 +1,18 @@
+{
+ "a_name": "BTC",
+ "b_name": "SPY",
+ "a_worst": "-83%",
+ "b_worst": "-34%",
+ "a_deep": "32%",
+ "b_deep": "0%",
+ "a_mid": "66%",
+ "b_mid": "2%",
+ "a_high": "4%",
+ "b_high": "15%",
+ "a_days": "4,388",
+ "b_days": "3,020",
+ "mark_mid": "20%",
+ "mark_deep": "50%",
+ "first_year": "2014",
+ "last_year": "2026"
+}
