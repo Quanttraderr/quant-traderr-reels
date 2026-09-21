@@ -38,6 +38,7 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`the-volatility-landscape`](the-volatility-landscape) | The Volatility Landscape | 72% on the 20 session window in Dec 2008 |
 | [`the-bell-curve-lie`](the-bell-curve-lie) | The Bell Curve Lie | 63 days outside a shell a bell curve puts 0.1 days beyond |
 | [`the-markets-memory`](the-markets-memory) | The Market's Memory | a big move follows a big down day 29% of the time, 13% on an average day |
+| [`the-seasonality-mirage`](the-seasonality-mirage) | The Seasonality Mirage | September averages -0.5%, give or take 0.9 |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
