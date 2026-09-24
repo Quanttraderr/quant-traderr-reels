@@ -40,6 +40,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`the-markets-memory`](the-markets-memory) | The Market's Memory | a big move follows a big down day 29% of the time, 13% on an average day |
 | [`the-seasonality-mirage`](the-seasonality-mirage) | The Seasonality Mirage | September averages -0.5%, give or take 0.9 |
 | [`the-shape-of-pain`](the-shape-of-pain) | The Shape of Pain | BTC spent 32% of its days over 50% below its high, SPY 0% |
+| [`fear-is-overpriced`](fear-is-overpriced) | Fear Is Overpriced | the VIX sat above the volatility that followed on 83% of days |
+| [`the-stop-loss-trap`](the-stop-loss-trap) | The Stop-Loss Trap | 50% of -10% stop-outs on SPY still finished the year up |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the

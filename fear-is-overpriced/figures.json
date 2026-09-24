@@ -1,0 +1,16 @@
+{
+ "share": "83%",
+ "miss": "17%",
+ "median": "4.4",
+ "vix_mean": "19.5",
+ "rv_mean": "15.8",
+ "worst": "-67",
+ "worst_when": "Feb 2020",
+ "days": "8,449",
+ "first_year": "1993",
+ "last_year": "2026",
+ "dec_min": "79%",
+ "crash_a": "2008",
+ "crash_b": "2020",
+ "horizon": "21"
+}
