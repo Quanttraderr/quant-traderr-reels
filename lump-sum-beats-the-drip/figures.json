@@ -1,0 +1,16 @@
+{
+ "starts": "8,221",
+ "lump_win": "79%",
+ "dca_win": "21%",
+ "lump_win_tb": "75%",
+ "median_lead": "+6.3%",
+ "dca_median_win": "5.3%",
+ "dca_best": "34%",
+ "dca_best_start": "Aug 2008",
+ "crash": "2008",
+ "first_year": "1993",
+ "last_year": "2026",
+ "months": "12",
+ "step": "21",
+ "horizon": "252"
+}
