@@ -29,7 +29,7 @@ Retail finds a moving average crossover that crushed the backtest and calls it a
 
 I tested 6,032 versions of the classic trend rule on SPY. Fast average, slow average, a buffer band, T-bills when out.
 
-From 1994 to 2009, 79% of them beat buy and hold. The best, a 33/226-day MA with a 0.4% band, made 13.6% a year against 7.8%. That green solid is the island.
+From 1994 to 2009, 79% of them beat buy and hold. The best, a 33/226-day MA with a 0.4% band, made 13.6% a year against 7.8%. That solid is the island.
 
 From 2010 to 2026, 0 of 6,032 beat buy and hold. The best backtest made 9.2% a year while simply holding made 14.2%. 12 rules only tied, because they never sold. This is what overfitting to a regime looks like.
 
