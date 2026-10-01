@@ -48,6 +48,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`it-always-comes-back`](it-always-comes-back) | It Always Comes Back | the longest wait for a new S&P high was 25 years |
 | [`the-market-earns-at-night`](the-market-earns-at-night) | The Market Earns at Night | a dollar held only overnight +2,412%, only in market hours +26% |
 | [`the-island-that-sank`](the-island-that-sank) | The Island That Sank | 79% of 6,032 trend rules beat buy and hold to 2009, none after |
+| [`buy-when-it-hurts`](buy-when-it-hurts) | Buy When It Hurts | SPY one year after a VIX close of 40+: +36%, up in 97% of cases |
+| [`every-halving-pays-less`](every-halving-pays-less) | Every Halving Pays Less | Bitcoin peak gain after each halving: +2,895%, +750%, +95% |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the

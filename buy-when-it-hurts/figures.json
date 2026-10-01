@@ -1,0 +1,20 @@
+{
+ "fear_level": "40",
+ "calm_level": "15",
+ "fear_mean": "+36%",
+ "all_mean": "+12%",
+ "calm_mean": "+13%",
+ "fear_pos": "97%",
+ "all_pos": "82%",
+ "fear_worst": "-16%",
+ "fear_worst_date": "Sep 2001",
+ "n_fear": "208",
+ "n_days": "8,223",
+ "n_fear_years": "10",
+ "n_months": "393",
+ "vix_peak": "83",
+ "vix_peak_date": "Mar 2020",
+ "start": "1993",
+ "last_seed": "2025",
+ "end": "Sep 2025"
+}
