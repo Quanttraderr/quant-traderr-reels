@@ -5,3 +5,4 @@ yfinance
 scipy
 imageio-ffmpeg
 pillow
+scikit-image

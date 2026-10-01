@@ -1,0 +1,16 @@
+{
+ "n_settings": "6,032",
+ "share_is": "79%",
+ "share_os": "0%",
+ "is_period": "1994 to 2009",
+ "os_period": "2010 to 2026",
+ "bh_is": "7.8%",
+ "bh_os": "14.2%",
+ "best_is": "13.6%",
+ "best_os": "9.2%",
+ "best_rule": "33/226-day MA, 0.4% band",
+ "grid": "20 x 20 x 16",
+ "n_beat_os": "0",
+ "n_tied_os": "12",
+ "share_end_2010": "0%"
+}

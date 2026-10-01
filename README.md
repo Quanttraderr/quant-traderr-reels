@@ -46,6 +46,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`lump-sum-beats-the-drip`](lump-sum-beats-the-drip) | Lump Sum Beats the Drip | the lump sum beat 12 monthly buys on 79% of start days |
 | [`the-3x-illusion`](the-3x-illusion) | The 3x Illusion | 3x daily fell short of 3x the year in 55% of windows |
 | [`it-always-comes-back`](it-always-comes-back) | It Always Comes Back | the longest wait for a new S&P high was 25 years |
+| [`the-market-earns-at-night`](the-market-earns-at-night) | The Market Earns at Night | a dollar held only overnight +2,412%, only in market hours +26% |
+| [`the-island-that-sank`](the-island-that-sank) | The Island That Sank | 79% of 6,032 trend rules beat buy and hold to 2009, none after |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
