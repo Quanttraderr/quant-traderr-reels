@@ -1,0 +1,18 @@
+{
+ "loss_1d": "46%",
+ "loss_1m": "40%",
+ "loss_1y": "30%",
+ "loss_5y": "20%",
+ "loss_10y": "11%",
+ "loss_20y": "3.5%",
+ "n_days": "24,803",
+ "n_20y": "19,764",
+ "worst_20y": "-50%",
+ "worst_20y_start": "Sep 1929",
+ "first_20y_loss": "Dec 1927",
+ "last_20y_loss": "Oct 1930",
+ "start": "1927",
+ "end": "Sep 2026",
+ "years": "20",
+ "horizons": "1 day, 1 month, 1 year, 5 years, 10 years, 20 years"
+}

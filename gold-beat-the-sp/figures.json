@@ -1,0 +1,22 @@
+{
+ "start": "Aug 2000",
+ "start_year": "2000",
+ "end": "Sep 2026",
+ "coin": "$0.50",
+ "gold_final": "$15.29",
+ "spy_final": "$8.08",
+ "gold_x": "15.3x",
+ "spy_x": "8.1x",
+ "split": "Jan 2010",
+ "split_year": "2010",
+ "gold_x10": "3.7x",
+ "spy_x10": "9.0x",
+ "gold_dd": "-44%",
+ "gold_dd_top": "Aug 2011",
+ "gold_dd_low": "Dec 2015",
+ "gold_dd_back": "Jul 2020",
+ "spy_dd": "-55%",
+ "spy_dd_low": "Mar 2009",
+ "spy_dd_back": "Aug 2012",
+ "n_days": "6,540"
+}

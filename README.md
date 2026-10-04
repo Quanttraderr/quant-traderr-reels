@@ -50,6 +50,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`the-island-that-sank`](the-island-that-sank) | The Island That Sank | 79% of 6,032 trend rules beat buy and hold to 2009, none after |
 | [`buy-when-it-hurts`](buy-when-it-hurts) | Buy When It Hurts | SPY one year after a VIX close of 40+: +36%, up in 97% of cases |
 | [`every-halving-pays-less`](every-halving-pays-less) | Every Halving Pays Less | Bitcoin peak gain after each halving: +2,895%, +750%, +95% |
+| [`time-kills-risk`](time-kills-risk) | Time Kills Risk | S&P 500 start days that lost money: 46% after 1 day, 3.5% after 20 years |
+| [`gold-beat-the-sp`](gold-beat-the-sp) | Gold Beat the S&P | $1 from Aug 2000: gold $15.29, SPY with dividends $8.08; from 2010 SPY wins |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
