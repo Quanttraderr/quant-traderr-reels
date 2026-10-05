@@ -1,0 +1,18 @@
+{
+ "share_same": "36%",
+ "share_week": "66%",
+ "share_month": "81%",
+ "share_open": "8%",
+ "share_same_up": "31%",
+ "share_same_down": "41%",
+ "share_all_same": "67%",
+ "n_gaps": "710",
+ "n_up": "346",
+ "n_down": "364",
+ "threshold": "1%",
+ "biggest": "-10%",
+ "biggest_date": "Mar 2020",
+ "start": "1993",
+ "end": "Sep 2026",
+ "last_gap": "Sep 2025"
+}

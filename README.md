@@ -52,6 +52,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`every-halving-pays-less`](every-halving-pays-less) | Every Halving Pays Less | Bitcoin peak gain after each halving: +2,895%, +750%, +95% |
 | [`time-kills-risk`](time-kills-risk) | Time Kills Risk | S&P 500 start days that lost money: 46% after 1 day, 3.5% after 20 years |
 | [`gold-beat-the-sp`](gold-beat-the-sp) | Gold Beat the S&P | $1 from Aug 2000: gold $15.29, SPY with dividends $8.08; from 2010 SPY wins |
+| [`buy-the-all-time-high`](buy-the-all-time-high) | Buy the All-Time High? | 73% of S&P highs were higher a year later, 75% of all days |
+| [`gaps-always-fill`](gaps-always-fill) | Gaps Always Fill? | only 36% of SPY gaps over 1% filled the same day, 8% stayed open a year |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
