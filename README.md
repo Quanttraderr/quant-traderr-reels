@@ -54,6 +54,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`gold-beat-the-sp`](gold-beat-the-sp) | Gold Beat the S&P | $1 from Aug 2000: gold $15.29, SPY with dividends $8.08; from 2010 SPY wins |
 | [`buy-the-all-time-high`](buy-the-all-time-high) | Buy the All-Time High? | 73% of S&P highs were higher a year later, 75% of all days |
 | [`gaps-always-fill`](gaps-always-fill) | Gaps Always Fill? | only 36% of SPY gaps over 1% filled the same day, 8% stayed open a year |
+| [`every-winner-crashed-hard`](every-winner-crashed-hard) | Every Winner Crashed Hard | AMZN fell 94% into Sep 2001, then went 859x |
+| [`cash-is-melting`](cash-is-melting) | Cash Is Melting | $100 of cash from 1913 buys $2.93 today |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
