@@ -58,6 +58,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`cash-is-melting`](cash-is-melting) | Cash Is Melting | $100 of cash from 1913 buys $2.93 today |
 | [`the-panic-sell`](the-panic-sell) | The Panic Sell | selling at -20% and buying back at the old high kept 43% of the money |
 | [`the-1-percent-fee`](the-1-percent-fee) | The 1% Fee | a 1% yearly fee took 29% of $318,993 over 33.7 years |
+| [`saving-is-losing`](saving-is-losing) | Saving Is Losing | $10,000 saved at the T-bill rate since 1993 buys $9,791 today, invested $135,794 |
+| [`half-was-dividends`](half-was-dividends) | Half Was Dividends | 45% of a SPY holding since 1993 came from reinvested dividends |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the

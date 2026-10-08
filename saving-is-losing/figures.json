@@ -1,0 +1,15 @@
+{
+ "amount": "$10,000",
+ "cash_nom": "$23,000",
+ "inv_nom": "$318,993",
+ "cash_real": "$9,791",
+ "inv_real": "$135,794",
+ "cash_chg": "-2%",
+ "ratio": "14x",
+ "infl": "x2.35",
+ "years": "33.7",
+ "below_share": "17%",
+ "start": "Jan 1993",
+ "end": "Sep 2026",
+ "cpi_last": "Aug 2026"
+}
