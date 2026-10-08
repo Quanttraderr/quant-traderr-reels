@@ -56,6 +56,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`gaps-always-fill`](gaps-always-fill) | Gaps Always Fill? | only 36% of SPY gaps over 1% filled the same day, 8% stayed open a year |
 | [`every-winner-crashed-hard`](every-winner-crashed-hard) | Every Winner Crashed Hard | AMZN fell 94% into Sep 2001, then went 859x |
 | [`cash-is-melting`](cash-is-melting) | Cash Is Melting | $100 of cash from 1913 buys $2.93 today |
+| [`the-panic-sell`](the-panic-sell) | The Panic Sell | selling at -20% and buying back at the old high kept 43% of the money |
+| [`the-1-percent-fee`](the-1-percent-fee) | The 1% Fee | a 1% yearly fee took 29% of $318,993 over 33.7 years |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
