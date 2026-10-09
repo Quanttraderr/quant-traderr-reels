@@ -1,0 +1,23 @@
+{
+ "monthly": "$500",
+ "early": "1993",
+ "late": "2003",
+ "early_dep": "$202,000",
+ "late_dep": "$142,000",
+ "early_val": "$1,810,343",
+ "late_val": "$794,841",
+ "early_short": "$1.81M",
+ "late_short": "$795K",
+ "dep_gap": "$60,000",
+ "cost": "$1,015,502",
+ "cost_short": "$1.02M",
+ "ratio": "2.3x",
+ "early_mult": "9.0x",
+ "late_mult": "5.6x",
+ "per_year": "$101,550",
+ "wait_years": "10",
+ "n_starts": "13",
+ "first_start": "Feb 1993",
+ "last_start": "Feb 2017",
+ "end": "Sep 2026"
+}

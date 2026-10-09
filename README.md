@@ -60,6 +60,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`the-1-percent-fee`](the-1-percent-fee) | The 1% Fee | a 1% yearly fee took 29% of $318,993 over 33.7 years |
 | [`saving-is-losing`](saving-is-losing) | Saving Is Losing | $10,000 saved at the T-bill rate since 1993 buys $9,791 today, invested $135,794 |
 | [`half-was-dividends`](half-was-dividends) | Half Was Dividends | 45% of a SPY holding since 1993 came from reinvested dividends |
+| [`the-cost-of-waiting`](the-cost-of-waiting) | The Cost of Waiting | Starting a $500/month SPY plan 10 years later cost $1,015,502 |
+| [`i-bought-the-top`](i-bought-the-top) | I Bought the Top | $10/day of Bitcoin from the 2017 record close: $32,110 in, $165,383 out |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
