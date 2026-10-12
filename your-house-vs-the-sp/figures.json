@@ -1,0 +1,17 @@
+{
+ "stake": "$100,000",
+ "house_usd": "$529,257",
+ "stock_usd": "$2,732,677",
+ "house_k": "$529k",
+ "stock_m": "$2.73M",
+ "house_x": "5.3x",
+ "stock_x": "27.3x",
+ "ratio": "5.2x",
+ "house_dd": "-27%",
+ "stock_dd": "-53%",
+ "years": "39",
+ "index": "S&P 500",
+ "down": "20%",
+ "start": "Jan 1987",
+ "end": "Jul 2026"
+}

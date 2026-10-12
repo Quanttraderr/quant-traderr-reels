@@ -1,0 +1,17 @@
+{
+ "always": "$300",
+ "blue": "$132",
+ "red": "$2.27",
+ "red_ex_hoover": "$9.92",
+ "hoover": "-77%",
+ "n_pres": "17",
+ "yrs_blue": "52",
+ "yrs_red": "46",
+ "losers": "HOOVER, NIXON, BUSH JR",
+ "stake": "$1",
+ "index": "S&P 500",
+ "hoover_span": "1929 to 1933",
+ "cash": "0%",
+ "start": "Mar 1929",
+ "end": "Sep 2026"
+}

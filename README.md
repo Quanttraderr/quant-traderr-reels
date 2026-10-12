@@ -62,6 +62,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`half-was-dividends`](half-was-dividends) | Half Was Dividends | 45% of a SPY holding since 1993 came from reinvested dividends |
 | [`the-cost-of-waiting`](the-cost-of-waiting) | The Cost of Waiting | Starting a $500/month SPY plan 10 years later cost $1,015,502 |
 | [`i-bought-the-top`](i-bought-the-top) | I Bought the Top | $10/day of Bitcoin from the 2017 record close: $32,110 in, $165,383 out |
+| [`red-vs-blue`](red-vs-blue) | Red vs Blue | $1 in the S&P 500 since 1929: always invested $300, blue only $132, red only $2.27 |
+| [`your-house-vs-the-sp`](your-house-vs-the-sp) | Your House vs the S&P | $100,000 since 1987: average US home $529,257, S&P 500 $2,732,677 |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
