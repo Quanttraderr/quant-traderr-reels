@@ -22,7 +22,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FIGURES = os.path.join(BASE_DIR, "figures.json")
 OUT_DIR = BASE_DIR                      # the caption ships next to its reel
 HANDLE = "@quant.traderr"
-KEYWORD = "NIGHT"                    # the comment-keyword CTA
+KEYWORD = "NVDA"                    # the comment-keyword CTA
 
 CAPTION = """
 Retail watches Nvidia all day, buys the open, sells the close. A quant splits every day in two and asks which half made the money.
@@ -35,7 +35,7 @@ Buy and hold is just the two multiplied: $5,351. Every cent of Nvidia's run arri
 
 The catch: you cannot farm this. Buying every close and selling every open pays the spread twice a day for 6,977 days, and the night carries the earnings gaps and news risk. It is one extreme stock, not a law of nature.
 
-Comment "NIGHT" and I'll send you the code.
+Comment "NVDA" and I'll send you the code.
 
 Follow @quant.traderr for the math behind the markets.
 """
