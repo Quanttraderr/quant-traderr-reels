@@ -1,0 +1,13 @@
+{
+ "stake": "$1",
+ "ticker": "NVDA",
+ "day": "$0.43",
+ "night": "$12,338",
+ "hold": "$5,351",
+ "day_loss": "-57%",
+ "day_min": "$0.07",
+ "n_days": "6,977",
+ "hours": "9:30 to 4:00",
+ "start": "Jan 1999",
+ "end": "Oct 2026"
+}
