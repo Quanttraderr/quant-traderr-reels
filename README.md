@@ -66,6 +66,8 @@ a synthetic tape under a real-sounding caption is a lie with a chart on it.
 | [`your-house-vs-the-sp`](your-house-vs-the-sp) | Your House vs the S&P | $100,000 since 1987: average US home $529,257, S&P 500 $2,732,677 |
 | [`nvidia-only-rises-at-night`](nvidia-only-rises-at-night) | Nvidia Only Rises at Night | $1 in NVDA since 1999: market hours only $0.43, overnight only $12,338 |
 | [`every-iphone-vs-apple-stock`](every-iphone-vs-apple-stock) | Every iPhone vs Apple Stock | 19 iPhones since 2007 cost $10,131; the same dollars in AAPL are $145,310 |
+| [`i-bought-the-hype`](i-bought-the-hype) | I Bought the Hype | $10,000 at ARKK's 2021 peak: ARKK $5,416, S&P 500 $21,146 |
+| [`big-mac-vs-mcdonalds`](big-mac-vs-mcdonalds) | Big Mac vs McDonald's | one Big Mac a week since 2000: $5,456 eaten, $26,742 in MCD |
 
 Each folder has its own README with the method, the figures the post was built
 on, and a section on what the picture does **not** show. That last part is the
